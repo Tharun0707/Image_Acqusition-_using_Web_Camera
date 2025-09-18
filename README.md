@@ -25,9 +25,9 @@ Anaconda - Python 3.7
 <br>Divide the frame into halves and assign the smaller frame and Rotate the frame using the cv2.rotate().
 
 ## Program:
-``` Python
-### Developed By: THARUN SRIDHAR 
-### Register No: 212223230230
+
+**Developed By: THARUN SRIDHAR** 
+**Register No: 212223230230**
 
 ## i) Write the frame as JPG file
 ```
@@ -114,7 +114,6 @@ cap.release()
 ```
 
 
-```
 ## Output
 
 ### i) Write the frame as JPG image
